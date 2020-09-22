@@ -1,6 +1,5 @@
 package gerenciamento;
 
-
 public class Vendedor extends Funcionario {
         
     private double comissao;
@@ -35,4 +34,5 @@ public class Vendedor extends Funcionario {
         System.out.println("Documento: " + this.documento);
         System.out.println("Cargo na Empresa: " + "Vendedor");
     }
+
 }

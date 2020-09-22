@@ -47,6 +47,4 @@ public class Cliente extends Pessoa{
         System.out.println("Documento: " + this.documento);
     }
     
-    
-    
 }

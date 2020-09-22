@@ -25,4 +25,5 @@ public abstract class Funcionario extends Pessoa {
     public void setRamal(int ramal) {
         this.ramal = ramal;
     }
+
 }

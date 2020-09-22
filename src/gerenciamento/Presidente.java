@@ -1,7 +1,6 @@
 
 package gerenciamento;
 
-
 public class Presidente extends Funcionario {
     
     public Presidente() {

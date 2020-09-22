@@ -1,6 +1,5 @@
 package gerenciamento;
 
-
 public class Secretaria extends Funcionario {
     
     public Secretaria(){
